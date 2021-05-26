@@ -34,7 +34,7 @@ After this deep dive, you might also be interested in:
 
 ## Model Files
 
-The rest of this topic focuses on serving model files without much discussion on the model files themselves, where they come from, and how they're made. Long story short: it's a zip archive with the parameters, weights, and metadata that define a model that has been trained already. If you want to know more about the model files, take a look at the [model-archiver documentation](../model-archiver/README.md).
+The rest of this topic focuses on serving model files without much discussion on the model files themselves, where they come from, and how they're made. Long story short: it's a zip archive with the parameters, weights, and metadata that define a model that has been trained already. If you want to know more about the model files, take a look at the [model-archiver documentation](https://github.com/pytorch/serve/tree/master/model-archiver).
 
 ## Command Line Interface
 
